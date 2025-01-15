@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\src\main\scala\services\FlightAnalyticsServices.scala:42:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Long[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m        FlightsByMonth(month, distinctFlights) // Map result to `FlightsByMonth`[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\src\main\scala\services\FlightAnalyticsServices.scala:60:60: not enough arguments for method apply: (passengerId: Long, flightCount: Int, firstName: String, lastName: String, from: String, to: String)models.Output.NumTopFlyer in object NumTopFlyer.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters from, to.[0m
+[0m[[0m[31merror[0m] [0m[0m      .map { case (passengerId, flightCount) => NumTopFlyer(passengerId, flightCount, "", "") }[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

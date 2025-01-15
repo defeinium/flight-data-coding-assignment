@@ -1,0 +1,89 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\flight-data-coding-assignment_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\app[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\app\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\app\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data\input[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\data\input[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data\input\flightData.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\data\input\flightData.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data\input\passengers.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\data\input\passengers.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Input[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Input[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Input\flightData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Input\flightData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Input\flightData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Input\flightData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Input\passengers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Input\passengers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Input\passengers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Input\passengers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\FlightsByMonth$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\FlightsByMonth$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\FlightsByMonth.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\FlightsByMonth.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\FlownTogether$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\FlownTogether$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\FlownTogether.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\FlownTogether.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\LongestRunWithoutCountry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\LongestRunWithoutCountry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\LongestRunWithoutCountry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\LongestRunWithoutCountry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\NumTopFlyer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\NumTopFlyer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Output\NumTopFlyer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\models\Output\NumTopFlyer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator4$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator4$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator4$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator4$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator4$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator4$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator4$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator4$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator5$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator5$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator5$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator5$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$$typecreator9$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$$typecreator9$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services\FlightAnalyticsServices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\services\FlightAnalyticsServices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\CsvUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\utils\CsvUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\CsvUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\utils\CsvUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\InputUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\utils\InputUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils\InputUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Teck Hooi\IdeaProjects\Flight Data Coding Assignment\target\scala-2.12\classes\utils\InputUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

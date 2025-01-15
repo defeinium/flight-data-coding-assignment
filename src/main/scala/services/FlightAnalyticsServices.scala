@@ -5,7 +5,8 @@ import models.Input.{flightData, passengers}
 import org.apache.spark.sql.{Dataset, SparkSession}
 import utils.CsvUtils
 import models.Output.{FlightsByMonth, FlownTogether, LongestRunWithoutCountry, NumTopFlyer}
-import org.apache.spark.sql.functions.to_date
+import org.apache.spark.sql.functions.{lit, to_date}
+
 import java.sql.Date
 
 object FlightAnalyticsServices {
@@ -31,7 +32,7 @@ object FlightAnalyticsServices {
 
     // Step 1: Extract the month from date
     val flightsWithMonth = flights.map { flight =>
-      val month = flight.date.substring(5, 7).toLong // Extract month from the "YYYY-MM-DD" format
+      val month = flight.date.substring(5, 7).toInt // Extract month from the "YYYY-MM-DD" format
       (month, flight.flightId)
     }
 
@@ -158,6 +159,8 @@ object FlightAnalyticsServices {
       .filter($"count" > atLeastNTimes)
       .select("passenger1Id", "passenger2Id", "count")
       .withColumnRenamed("count", "numberOfFlightsTogether")
+      .withColumn("from", lit(from)) // Add the 'from' date
+      .withColumn("to", lit(to))     // Add the 'to' date
       .orderBy($"numberOfFlightsTogether".desc)
       .as[FlownTogether]
 
