@@ -61,7 +61,7 @@ object MainApp {
         return
     }
 
-    println(s"Results saved to: $flownTogetherOutputPath")
+    println(s"Results saved to: $outputPath")
 
     spark.stop()
   }
